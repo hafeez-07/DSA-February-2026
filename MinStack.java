@@ -44,7 +44,6 @@ public class MinStack {
             return -1;
         }
         return minStack.peek();
-
     }
 
     public void display() {
